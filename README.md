@@ -11,7 +11,7 @@ This is a beginner-friendly Python program to encrypt and decrypt messages using
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/caesar-cipher-python.git
+   git clone https://github.com/faxz67/PRODIGY_CS_01
    cd caesar-cipher-python
 
 2.run the script
